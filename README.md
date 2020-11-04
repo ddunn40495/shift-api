@@ -1,1 +1,1 @@
-# shift-api
+# shifts-api
